@@ -1,8 +1,13 @@
 # Movie_Recommendation_System
 
-There are 2 popular techniques for Recommender Systems ..
+<ul>
+ <li>There are 2 popular techniques for Recommender Systems ..
                1)  Collaborative based Recommender System.
                2) Content based Recommender System.
+ </li>
+  
+ <li>The Dataset for these models are found above in the 'ml-100k' dataset.  </li>
+ </ul>
 
 ## Collaborative based Recommender System:
 
