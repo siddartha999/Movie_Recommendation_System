@@ -18,9 +18,9 @@
         1) Item - Item based Collaborative filtering.
         2) User - User based Collaborative filtering.
 </li>
-<li> I have made use of Cosine similarity between the sets to predict the final output.<li>
+<li> I have made use of Cosine similarity between the sets to predict the final output.</li>
 <li> My approach is based on this Following Lecture:
-                        https://www.youtube.com/watch?v=h9gpufJFF-0
+                        https://www.youtube.com/watch?v=h9gpufJFF-0 </li>
 </ul>
 
 ### Item - Item based Collaborative filtering:
